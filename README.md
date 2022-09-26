@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielSub22
+- 👋 Hi, I’m @DanielSub22 and it's my profile be free to contact me if you're interesed 
 - 👀 I’m interested in ...C#, JavaScript
 - 🌱 I’m currently learning ...C#, JavaScript
 - 💞️ I’m looking to collaborate on ...LeagueSandbox
