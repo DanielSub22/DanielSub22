@@ -5,6 +5,6 @@
 - 📫 How to reach me ...Discord:Ｄａｎｉ⛧#1042
 
 <!---
-DanielSub22/DanielSub22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+L$ Dani/DanielSub22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
