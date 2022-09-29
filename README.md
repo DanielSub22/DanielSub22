@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @DanielSub22 and it's my profile be free to contact me if you're interesed 
-- 👀 I’m interested in ...C#, JavaScript
-- 🌱 I’m currently learning ...C#, JavaScript
-- 💞️ I’m looking to collaborate on ...LeagueSandbox
-- 📫 How to reach me ...Discord:Ｄａｎｉ⛧#1042
+<img src="chamber_teaser_-_embed_5.gif" width="484px" align="right">
 
-<!---
-L$ Dani/DanielSub22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2><strong>🎂Welcome to my github! good see ya</strong></h2>
+
+<div id="badges" width="100" height="50">
+  <a href = "https://github.com/DanielSub22">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+ <br>
+
+<h4>- ❤ Student</h4>
+<h4>- 💙 a Big Fan of Games and Geek Stuffs</h4>
+<h4>- 👩‍💻 Learning Fullstack</h4>
+<hr>
+
+
+<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50px" height="50px"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS Badge" width="50px" height="50px"/>
+  
+
+  
