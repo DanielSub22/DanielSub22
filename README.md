@@ -1,4 +1,3 @@
-<img src="chamber_teaser_-_embed_5.gif" width="484px" align="right">
 
 <h3><strong>🎂Welcome to my github! good see ya</strong></h3>
 
