@@ -1,6 +1,6 @@
 <img src="chamber_teaser_-_embed_5.gif" width="484px" align="right">
 
-<h2><strong>🎂Welcome to my github! good see ya</strong></h2>
+<h3><strong>🎂Welcome to my github! good see ya</strong></h3>
 
 <div id="badges" width="100" height="50">
   <a href = "https://github.com/DanielSub22">
