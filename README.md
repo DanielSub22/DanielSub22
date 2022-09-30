@@ -9,7 +9,7 @@
  <br>
 
 <h4>- ❤ Student</h4>
-<h4>- 💙 a Big Fan of Games and Geek Stuffs</h4>
+<h4>- 💙 a Fan of Games</h4>
 <h4>- 👩‍💻 Learning Fullstack</h4>
 <hr>
 
