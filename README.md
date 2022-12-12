@@ -13,8 +13,6 @@
 <h4>- 👩‍💻 Learning Fullstack</h4>
 <hr>
   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/45i70K1PefHafKui2WxH0M?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50px" height="50px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50px" height="50px"/>&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS Badge" width="50px" height="50px"/>
